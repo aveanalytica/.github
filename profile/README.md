@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="AVE Analytica — школа аналитики данных и AI-инструментов" width="100%">
+<img src="https://raw.githubusercontent.com/aveanalytica/.github/main/profile/assets/banner.svg" alt="AVE Analytica — школа аналитики данных и AI-инструментов" width="100%">
 
 <br>
 
