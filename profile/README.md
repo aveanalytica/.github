@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aveanalytica/.github/main/profile/assets/banner.svg" alt="AVE Analytica — школа аналитики данных и AI-инструментов" width="100%">
+<img src="https://raw.githubusercontent.com/aveanalytica/.github/main/profile/assets/banner.svg" alt="Grade Analytica — школа аналитики данных и AI-инструментов" width="100%">
 
 <br>
 
-[![Сайт школы](https://img.shields.io/badge/сайт-ave--analytica.tech-6C5CE7?style=for-the-badge)](https://ave-analytica.tech)
-[![Курс CLI-агенты](https://img.shields.io/badge/курс-cli.ave--analytica.tech-33255C?style=for-the-badge)](https://cli.ave-analytica.tech)
+[![Сайт школы](https://img.shields.io/badge/сайт-grade--analytica.tech-6C5CE7?style=for-the-badge)](https://grade-analytica.tech)
+[![Курс CLI-агенты](https://img.shields.io/badge/курс-cli.grade--analytica.tech-33255C?style=for-the-badge)](https://cli.grade-analytica.tech)
 
 **Онлайн-школа для тех, кто начинает с нуля, уже работает с данными или связывает бизнес и IT.**
 Пять отдельных курсов — выбираете конкретный навык и сразу идёте в практику.
@@ -24,7 +24,7 @@
 | 🧩 | **Бизнес-аналитик** | специалистам между бизнесом и IT | требования, AS-IS / TO-BE, BPMN, User Stories и Agile | 1 месяц · 2 модуля |
 | 🤖 | **AI-агенты в аналитике** | тем, кто работает с данными | CLI-агенты, MCP, агенты в SQL/Python/отчётности, мультиагентный мини-проект | 2 недели · 3 модуля |
 
-> 🟢 Сейчас открыт набор на **«AI-агенты в аналитике»** — программа на [cli.ave-analytica.tech](https://cli.ave-analytica.tech).
+> 🟢 Сейчас открыт набор на **«AI-агенты в аналитике»** — программа на [cli.grade-analytica.tech](https://cli.grade-analytica.tech).
 
 ## 🎓 Как мы учим
 
@@ -51,8 +51,8 @@ ave_school=# SELECT direction, status FROM courses ORDER BY audience;
 
 | | |
 |---|---|
-| 🏫 Школа | [ave-analytica.tech](https://ave-analytica.tech) |
-| 🤖 Курс «AI-агенты в аналитике» | [cli.ave-analytica.tech](https://cli.ave-analytica.tech) |
+| 🏫 Школа | [grade-analytica.tech](https://grade-analytica.tech) |
+| 🤖 Курс «AI-агенты в аналитике» | [cli.grade-analytica.tech](https://cli.grade-analytica.tech) |
 
 <div align="center">
 
